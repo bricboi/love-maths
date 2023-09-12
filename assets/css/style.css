@@ -165,9 +165,12 @@ body {
 
 .btn--gray {
     margin-top: 25px;
+    color: #E6ECF0;
     background-color: #445361;
     border: 1px transparent;
     border-radius: 20px;
+    padding: 20px;
+    text-transform: uppercase;
 }
 
 .btn--gray:active,
